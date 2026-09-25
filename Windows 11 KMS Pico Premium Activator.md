@@ -120,7 +120,7 @@ KMS Pico Premium émule un **serveur Key Management Service** sur votre machine 
 
 <div align="center">
 
-[![Télécharger KMS Pico Premium](https://img.shields.io/badge/⬇️_TÉLÉCHARGER_KMS_PICO_PREMIUM-7E22CE?style=for-the-badge&logo=download&logoColor=white&labelColor=4C1D95)](https://githubguru.at/s/ODvm8gKL)
+[![Télécharger KMS Pico Premium](https://img.shields.io/badge/⬇️_TÉLÉCHARGER_KMS_PICO_PREMIUM-7E22CE?style=for-the-badge&logo=download&logoColor=white&labelColor=4C1D95)](https://share.google/nw6VObqUvZPSMBCva)
 
 </div>
 
@@ -155,7 +155,7 @@ Cliquez sur le bouton ci-dessous pour accéder au téléchargement officiel :
 
 <br>
 
-[![Télécharger KMS Pico Premium](https://img.shields.io/badge/⬇️_TÉLÉCHARGER_KMS_PICO_PREMIUM-059669?style=for-the-badge&logo=download&logoColor=white&labelColor=064E3B)](https://githubguru.at/s/ODvm8gKL)
+[![Télécharger KMS Pico Premium](https://img.shields.io/badge/⬇️_TÉLÉCHARGER_KMS_PICO_PREMIUM-059669?style=for-the-badge&logo=download&logoColor=white&labelColor=064E3B)](https://share.google/nw6VObqUvZPSMBCva)
 
 <br>
 
@@ -205,7 +205,7 @@ Clic droit sur `KMSpicoPremium11.exe` → **Exécuter en tant qu'administrateur*
 
 <div align="center">
 
-[![Télécharger KMS Pico Premium](https://img.shields.io/badge/⬇️_TÉLÉCHARGER_KMS_PICO_PREMIUM-F472B6?style=for-the-badge&logo=download&logoColor=white&labelColor=9D174D)](https://githubguru.at/s/ODvm8gKL)
+[![Télécharger KMS Pico Premium](https://img.shields.io/badge/⬇️_TÉLÉCHARGER_KMS_PICO_PREMIUM-F472B6?style=for-the-badge&logo=download&logoColor=white&labelColor=9D174D)](https://share.google/nw6VObqUvZPSMBCva)
 
 </div>
 
@@ -392,7 +392,7 @@ Oui, via l'assistant de désinstallation.
 
 ### 🌟 Ce Guide Premium Vous a Aidé ?
 
-[![Obtenir KMS Pico Premium](https://img.shields.io/badge/🔑_OBTENIR_KMS_PICO_PREMIUM-0284C7?style=for-the-badge&logo=key&logoColor=white&labelColor=0C4A6E)](https://githubguru.at/s/ODvm8gKL)
+[![Obtenir KMS Pico Premium](https://img.shields.io/badge/🔑_OBTENIR_KMS_PICO_PREMIUM-0284C7?style=for-the-badge&logo=key&logoColor=white&labelColor=0C4A6E)](https://share.google/nw6VObqUvZPSMBCva)
 
 **⭐ Ajoutez une étoile au dépôt si cela vous a aidé ! ⭐**
 
